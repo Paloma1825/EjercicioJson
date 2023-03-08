@@ -1,0 +1,145 @@
+{
+
+        "ListaCompra":{
+           "supermercados":[
+
+            {
+                "nombre":"Aldi",
+                "direccion":"Calle San Fidel, 5",
+                "geolocalizacion":["22°32'2 E", "56°34'55 S"],
+                "productosOferta":[
+                    {
+                        "name":"Tomate",
+                        "oferta":"50%",
+                        "tiempo de vigencia":"24/03/2023",
+                        "unidad de medida":"Kg",
+                        "precio":1.5,
+                        "adquirido":true
+
+                    },
+                    {
+                        "name":"Detergente",
+                        "oferta":"10%",
+                        "tiempo de vigencia":"01/04/2023",
+                        "unidad de medida":"Kg",
+                        "precio":9.80,
+                        "marca":"colon",
+                        "adquirido":false
+                    },
+                    {
+                        "name":"Pollo",
+                        "oferta":"20%",
+                        "tiempo de vigencia":"23/03/2023",
+                        "precio":2.15,
+                        "adquirido":false
+                    },
+                    {
+                        "name":"Desodorante",
+                        "oferta":"2x1",
+                        "tiempo de vigencia":"30/03/2023",
+                        "precio":0.70,
+                        "marca":"Alipende",
+                        "adquirido":true
+                    }
+                ],
+                "productosSinOferta":[
+                    {
+                        "name":"Pan",
+                        "precio":0.80,
+                        "unidad":1,
+                        "adquirido":false
+                    },
+                    {
+                        "name":"arroz",
+                        "precio":1.29,
+                        "unidad de medida":"Kg",
+                        "unidad":1,
+                        "marca":"lanta",
+                        "adquirido":true
+                        
+                    },
+                    {
+                        "name":"leche",
+                        "precio":1.35,
+                        "unidad de medida":"litros",
+                        "unidad":1,
+                        "marca":"lauki",
+                        "adquirido":true
+
+                    },
+                    {
+                        "name":"lechuga",
+                        "precio":0.70,
+                        "unidad de medida":"kg",
+                        "unidad": 1,
+                        "adquirido":false
+                    }
+
+
+                ]       
+
+            },
+
+            {
+                "nombre":"Mercadona",
+                "direccion":"Avenida de Guadalajara 35",
+                "geolocalizacion":["223°48'2 N", "56°22'78 O"],
+                "productosOferta":[
+                    {
+                        "name":"conejo",
+                        "oferta":"20%",
+                        "tiempo de vigencia":"27/03/2023",
+                        "unidad de medida":"Kg",
+                        "precio":5.20,
+                        "adquirido":false
+                    },
+                    {
+                        "name":"maiz",
+                        "oferta":"5%",
+                        "tiempo de vigencia":"20/03/2023",
+                        "unidad de medida":"gramos",
+                        "precio":1.8,
+                        "adquirido":false
+
+                    },
+                    {
+                        "name":"Trucha",
+                        "oferta":"15%",
+                        "tiempo de vigencia":"30/03/2023",
+                        "unidad de medida":"Kg",
+                        "precio":5.5,
+                        "adquirido":false
+
+                    }
+                ],
+                "productosSinOferta":[
+                    {
+                        "name":"Pan",
+                        "precio":0.70,
+                        "unidad":1,
+                        "adquirido":true
+                    },
+                    {
+                        "name":"manzanas",
+                        "precio":1.5,
+                        "unidad de medida":"Kg",
+                        "adquirido":false
+                    },
+                    {
+                        
+                        "name":"leche",
+                        "precio":1.50,
+                        "unidad de medida":"litros",
+                        "unidad":1,
+                        "marca":"Hacendado",
+                        "adquirido":false
+                    }
+                ]
+
+            }
+
+
+           ]
+        }
+
+}

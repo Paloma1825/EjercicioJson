@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListaCompra>
+    <supermercado>
+        <nombre>Aldi</nombre>
+        <direccion>Calle San Fidel, 5</direccion>
+        <geolocalizacion>22°32'2 E</geolocalizacion>
+        <geolocalizacion>56°34'55 S</geolocalizacion>
+        <productosOferta>
+            <name>Tomate</name>
+            <oferta>50%</oferta>
+            <tiempoVigencia>24/03/2023</tiempoVigencia>
+            <unidadMedida>Kg</unidadMedida>
+            <precio>1.5</precio>
+            <adquirido>true</adquirido>
+        </productosOferta>
+           
+        <productosOferta>
+            <name>Detergente</name>
+            <oferta>10%</oferta>
+            <tiempoVigencia>01/04/2023</tiempoVigencia>
+            <unidadMedida>Kg</unidadMedida>
+            <precio>9.8</precio>
+            <marca>colon</marca>
+            <adquirido>false</adquirido>
+        </productosOferta>
+         
+        <productosOferta>
+
+            <name>Pollo</name>
+            <oferta>20%</oferta>
+            <tiempoVigencia>23/03/2023</tiempoVigencia>
+            <unidadMedida>Kg</unidadMedida>
+            <precio>2.15</precio>
+            <adquirido>false</adquirido>
+        
+        </productosOferta>
+
+        <productosOferta>
+        
+            <name>Desodorante</name>
+            <oferta>2x1</oferta>
+            <tiempoVigencia>30/03/2023</tiempoVigencia>
+            <marca>Alipende</marca>
+            <precio>0.70</precio>
+            <adquirido>true</adquirido>
+        </productosOferta>
+
+        <productoSinOferta>
+        
+            <name>Pan</name>
+            <precio><0.80/precio>
+            <unidad>1</unidad>
+            <adquirido>false</adquirido>
+        </productoSinOferta>
+
+        <productoSinOferta>
+            <name>arroz</name>
+            <precio>1.29</precio>
+            <unidadMedida>kg</unidadMedida>
+            <unidad>1</unidad>
+            <marca>lanta</marca>
+            <adquirido>true</adquirido>
+        
+        </productoSinOferta>
+
+        <productoSinOferta>
+            <name>leche</name>
+            <precio>1.35</precio>
+            <unidadMedida>litros</unidadMedida>
+            <unidad>1</unidad>    
+            <marca>lauki</marca>    
+            <adquirido>true</adquirido>
+
+        </productoSinOferta>
+
+        <productoSinOferta>
+            <name>lechuga</name>
+            <precio>0.70</precio>
+            <unidadMedida>Kg</unidadMedida>
+            <unidad>1</unidad>
+            <adquirido>false</adquirido>
+        
+        </productoSinOferta>    
+    </supermercado>
+
+    <supermercado>
+        <nombre>Mercadona</nombre>
+        <direccion>"Avenida de Guadalajara 35</direccion>
+        <geolocalizacion>223°48'2 N</geolocalizacion>
+        <geolocalizacion>56°22'78 O</geolocalizacion>
+
+        <productosOferta>
+            <name>conejo</name>
+            <oferta>20%</oferta>
+            <tiempoVigencia>27/03/2023</tiempoVigencia>
+            <unidadMedida>Kg</unidadMedida>        
+            <precio>5.20</precio>
+            <adquirido>false</adquirido>
+        </productosOferta>
+
+        <productosOferta>
+            <name>maiz</name>
+            <oferta>5%</oferta>
+            <tiempoVigencia>20/03/2023</tiempoVigencia>
+            <unidadMedida>Kg</unidadMedida>
+            <precio>5.5</precio>
+            <adquirido>false</adquirido>
+        
+        </productosOferta>
+
+        <productosOferta>
+            <name>Trucha</name>
+            <oferta>15%</oferta>
+            <tiempoVigencia>30/03/2023</tiempoVigencia>
+            <unidadMedida>kg</unidadMedida>
+            <precio>5.5</precio>
+            <adquirido>false</adquirido>       
+        </productosOferta>
+
+        <productoSinOferta>
+            <name>Pan</name>
+            <precio>0.70</precio>
+            <unidad>1</unidad>
+            <adquirido>True</adquirido>
+        
+        </productoSinOferta>
+
+        <productoSinOferta>
+
+            <name>Manzana</name>
+            <precio>1.5</precio>
+            <unidadMedida>Kg</unidadMedida>
+            <adquirido>false</adquirido>
+        </productoSinOferta>
+
+        <productoSinOferta>
+
+            <name>leche</name>
+            <precio>1.5</precio>
+            <unidadMedida>litros</unidadMedida>
+            <unidad>1</unidad>
+            <marca>Hacendado</marca>
+            <adquirido>false</adquirido>
+        
+        </productoSinOferta>
+
+    
+    
+    </supermercado>
+
+
+
+
+</ListaCompra>
